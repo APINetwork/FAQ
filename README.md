@@ -36,11 +36,21 @@ Is the API Network up and running or is this crowdsale mainly for funding its in
 
 The goal of the crowdsale is to get as many developers and programmers aware of the API Network as possible. So its largely a 30 day educational and learning process where we are introducing the project first to the crypto currency community because of all the startups and development going on here. The API Network already has a great deal of code up and running and developers are welcome to come test it out at the demo site: https://docs.apinetwork.co/ The support collected from the crowdsale will be used to further develop of the API Network clients and bring as much proprietary code into the world of open source as possible.
 
-**Question #5**
+**Question 5**
+
+How many XAP coins will there be?  Are they distributed automatically in the protocol?
+
+**Answer 5**
+
+At the end of the crowdsale 5,000,000 XAP will exist. 3,000,000 XAP will have been generated automatically by the crowdsale participants and 2,000,000 XAP that will be generated for buying proprietary code and open sourcing it. The protocol also sets aside other reward pools for third party developers (2,000,000 XAP), core developers (2,000,000 XAP) and node providers (1,000,000 XAP) all of which is defined in the protocol and will be automated as much as possible. Ultimately, no more than 10,000,000 XAP will ever exist. 
+
+Though it will take many years for the protocol's algorithms to distribute the different pools of tokens. See details in the whitepaper: https://github.com/APINetwork/ProtocolSpec#total-distribution-of-apicoins-xap
+
+**Question #6**
+
 Why doesn't Alice accept bitcoins for her API service?
 
-
-**Answer #5** 
+**Answer #6** 
 
 Ease, Discovery, and Competition
 
@@ -52,11 +62,11 @@ Lastly, there is the competition issue. If Bob only has one option for his API p
 
 A similar example we can look at in the real world is why Overstock.com (a huge company) doesn't just do their own bitcoin merchant services. Why use Coinbase or Bitpay? Overstock could do it themselves. But ease, discovery and competition play similar roles in that decision too. So if Coinbase charges a 1% fee or has me use Coinbase token either way its easier for Overstock than doing everything themselves.
 
-**Question #6**
+**Question #7**
 
 "If the coins are not sold out by the end of crowd sale on July 18th, what will happen to the remaining XAP from the 3,000,000 crowdsale pool?
 
-**Answer #6**
+**Answer #7**
 
 See the section above titled Crowdsale APICoin XAP Generation in the notes sub section. https://github.com/APINetwork/ProtocolSpec#the-crowdsale-apicoin-xap-generation
 
