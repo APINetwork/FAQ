@@ -18,12 +18,22 @@ Does the API Network pay programmers for listing / hosting API's?
 
 Programmers that host APIs on the Network will get paid XAP by those that choose to use their service. The API Network will  also reward programmers with XAP for listing their APIs on the open marketplace (in proportion to how popular their APIs are). The concept is to get as many useful APIs listed on the marketplace as possible and standardize the way users can access the data. And since the standard is open source it will let developers customize the information they receive and thus build more powerful applications. In short API hosts get rewarded, and users get a better service.
 
+**Question #3**
 
-**3. Question**
+Would the API Network be cross-compatible with systems such as Maidsafes' SAFE Network?  If so, do the XAP coins become redundant next to safecoins?  Or would they be complimentary to each other?
+
+**Answer #3**
+
+You can think of the API Network as a front end user interface to back end systems such as the SAFE Network. So as MaidSafe' SAFE Network gets closer to its production version, it may present a great option for storing the data for the hosted APIs on the API Network and so the API core devs are eager to make the two system compatible. In fact storing API data on the SAFE Network would generate SAFE coins (as part of their third party content creation reward pool) which the API Network would pass on to those listing APIs through its interface. So the SAFE and API Networks compliment each other and the digital tokens are meant to work together in different layers.
+
+
+**Question #4**
 Why doesn't Alice accept bitcoins for her API service?
 
 
-**3. Answer - Ease, Discovery, and Competition**
+**Answer #4** 
+
+Ease, Discovery, and Competition
 
 Alice could accept bitcoin directly. But unless she wants to do that manually, she will have to set up a payment mechanism, read Bitpay or the like which is extra work for her. 
 
@@ -33,11 +43,11 @@ Lastly, there is the competition issue. If Bob only has one option for his API p
 
 A similar example we can look at in the real world is why Overstock.com (a huge company) doesn't just do their own bitcoin merchant services. Why use Coinbase or Bitpay? Overstock could do it themselves. But ease, discovery and competition play similar roles in that decision too. So if Coinbase charges a 1% fee or has me use Coinbase token either way its easier for Overstock than doing everything themselves.
 
-**4. Question**
+**Question #5**
 
 "If the coins are not sold out by the end of crowd sale on July 18th, what will happen to the remaining XAP from the 3,000,000 crowdsale pool?
 
-**4. Answer*
+**Answer #5**
 
 See the section above titled Crowdsale APICoin XAP Generation in the notes sub section. https://github.com/APINetwork/ProtocolSpec#the-crowdsale-apicoin-xap-generation
 
