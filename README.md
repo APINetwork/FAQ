@@ -48,9 +48,27 @@ Though it will take many years for the protocol's algorithms to distribute the d
 
 **Question #6**
 
+What platform are the XAP tokens being issued on, and how can I get some?
+
+**Answer #6**
+
+The XAP tokens are being issued using the Master Protocol technology for creating them on top of Bitcoin's cryptographic ledger. Purchasing some XAP is as simple as sending a bitcoin transaction to the API Network generation address see more at: http://buyxap.com/ Seeing and sending your XAP after the crowdsale is as easy as using the using the multi currency Omni Wallet: https://test.omniwallet.org/
+
+**Question #7**
+
+How is the API Network going to be used in the Bitcoin eco-system?  I saw Kozeni API by Hive and Humint is one of the first related intergrations.
+
+**Answer #7**
+
+The API devs believe there will be a number of different bitcoin applications that will leverage the API network. One of the first examples is an API to support sending and receiving different types of cryto-tokens. One project in particular called the "Kozeni API" by Hive and Humint will provide basic send/receive/balance support for all crypto-tokens supported by the network, irrespective of whether they are metacoins or running on a unique blockchain. Their goal is to see that newly created tokens would be able to be added to the network and immediately be available for use in wallets and other apps.
+
+One can imagine innumerable use cases including: bitcoin price data, news feeds, secure log in, shopping and merchant APIs.
+
+**Question #8**
+
 Why doesn't Alice accept bitcoins for her API service?
 
-**Answer #6** 
+**Answer #8** 
 
 Ease, Discovery, and Competition
 
@@ -62,11 +80,11 @@ Lastly, there is the competition issue. If Bob only has one option for his API p
 
 A similar example we can look at in the real world is why Overstock.com (a huge company) doesn't just do their own bitcoin merchant services. Why use Coinbase or Bitpay? Overstock could do it themselves. But ease, discovery and competition play similar roles in that decision too. So if Coinbase charges a 1% fee or has me use Coinbase token either way its easier for Overstock than doing everything themselves.
 
-**Question #7**
+**Question #9**
 
 "If the coins are not sold out by the end of crowd sale on July 18th, what will happen to the remaining XAP from the 3,000,000 crowdsale pool?
 
-**Answer #7**
+**Answer #9**
 
 See the section above titled Crowdsale APICoin XAP Generation in the notes sub section. https://github.com/APINetwork/ProtocolSpec#the-crowdsale-apicoin-xap-generation
 
