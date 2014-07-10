@@ -20,3 +20,6 @@ There are many parts needed to make the APINetwork function, and they fall into 
 ## API Routing Projects
 
 ## API Expansion Projects
+
+1. Provide a mechanism for applications to GET a document URI.
+2. Provide a mechanism for applications to POST to a document URI.
