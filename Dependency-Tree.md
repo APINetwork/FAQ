@@ -28,7 +28,7 @@
 
 ## Components Used by Flows
 
-| Step | [API Handler](./requirements/API-Handler.md) | [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md) | [Request Router](./requirements/Request-Router.md) | [Marketplace](./requirements/Marketplace.md) | [Billing Module](./requirements/Billing-Module.md) | [Endpoint Manager](https://github.com/LDEngine/endpoint-manager) |
+| Step | [API Handler](./requirements/API-Handler.md) | [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md) | [Request Router](./requirements/Request-Router.md) | [Marketplace](./requirements/Marketplace.md) | [Billing Module](https://github.com/LDEngine/Billing) | [Endpoint Manager](https://github.com/LDEngine/endpoint-manager) |
 | :--- | :---: |:---: | :---: | :---: | :---: | :---: |
 | 1.i. | | | | | | |
 | 1.ii. | X | | | | | |
