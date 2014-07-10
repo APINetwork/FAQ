@@ -8,7 +8,7 @@ Please see the [Dependency Tree](./Dependency-Tree.md) for a description of the 
   2. Add existing APIs and their documentation to http://docs.apinetwork.co/
 2. Version 0.5:
   1. Add APICoin handling and distribution.  Requires:
-    1. [Billing Module](./requirements/Billing-Module.md)
+    1. [Billing Module](https://github.com/LDEngine/Billing)
   2. Move API translation tasks over to API providers.  Requires:
     1. [Request Router](./requirements/Request-Router.md)
     2. [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md)
@@ -20,7 +20,7 @@ Please see the [Dependency Tree](./Dependency-Tree.md) for a description of the 
 2. Version 1:
   1. Expand API Network to allow API providers to register themselves as service providers.  Modifies:
     1. [Request Router](./requirements/Request-Router.md)
-    2. [Billing Module](./requirements/Billing-Module.md)
+    2. [Billing Module](https://github.com/LDEngine/Billing)
   2. Allow API providers to set their prices in the marketplace.  Requires:
     1. [Marketplace](./requirements/Marketplace.md)
 
