@@ -5,7 +5,7 @@
 1. API Provider
   1. API Provider implements their system.
   2. API Provider creates a translation system that processes apinetwork URIs as their API.
-  3. API Provider provides an mechanism (if end-user authentication is needed).
+  3. API Provider provides an authentication mechanism (if end-user authentication is needed).
   3. API Provider registers their service cluster with API Network.
   4. API Network provides a secret token to the API provider, which they can check to ensure that the calls their API receives are legitimate and that they will be paid for their use.
   4. API Provider sets a price and other metadata regarding their API.
@@ -27,3 +27,39 @@
   7. The APINetwork periodically (daily?) sums the usage of each API and distributes APICoins to service providers.  Payments which do not far outweigh their blockchain fees should be held.
 
 ## Components Used by Flows
+
+1.i. Not us.
+
+1.ii. [API Handler](./requirements/API-Handler.md)
+
+1.iii [API Handler](./requirements/API-Handler.md), [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md)
+
+1.iv. [Request Router](./requirements/Request-Router.md)
+
+1.v. [Request Router](./requirements/Request-Router.md), [API Handler](./requirements/API-Handler.md)
+
+1.vi. [Marketplace](./requirements/Marketplace.md)
+
+1.vii. [Marketplace](./requirements/Marketplace.md), [Billing Module](./requirements/Billing-Module.md)
+
+2.i. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager)
+
+2.ii. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager)
+
+2.iii. [Billing Module](./requirements/Billing-Module.md)
+
+2.iv. Not us.
+
+3.i. Not us.
+
+3.ii. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager)
+
+3.iii. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager), [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md)
+
+3.iv. Not us.
+
+3.v. [Request Router](./requirements/Request-Router.md)
+
+3.vi. [Request Router](./requirements/Request-Router.md), [Billing Module](./requirements/Billing-Module.md)
+
+3.vii. [Billing Module](./requirements/Billing-Module.md)
