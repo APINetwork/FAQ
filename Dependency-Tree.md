@@ -28,38 +28,24 @@
 
 ## Components Used by Flows
 
-1.i. Not us.
+| Step | [API Handler](./requirements/API-Handler.md) | [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md) | [Request Router](./requirements/Request-Router.md) | [Marketplace](./requirements/Marketplace.md) | [Billing Module](./requirements/Billing-Module.md) | [Endpoint Manager](https://github.com/LDEngine/endpoint-manager) |
+| :--- | :---: |:---: | :---: | :---: | :---: | :---: |
+| 1.i. | | | | | | |
+| 1.ii. | X | | | | | |
+| 1.iii. | X | X | | | | |
+| 1.iv. | | | X | | | |
+| 1.v. | X | | X | | |
+| 1.vi. | | |  | X | | |
+| 1.vii. | | | | X | X | |
+| 2.i. | | | | | | X |
+| 2.ii. | | | | | | X |
+| 2.iii. | | | | | X | |
+| 2.iv. | | | | | | |
+| 3.i. | | | | | | |
+| 3.ii. | | | | | | X |
+| 3.iii. | | X | | | | X |
+| 3.iv. | | | | | | |
+| 3.v. | | | X | | | |
+| 3.vi. | | | X | | X | |
+| 3.vii. | | | | | X | |
 
-1.ii. [API Handler](./requirements/API-Handler.md)
-
-1.iii [API Handler](./requirements/API-Handler.md), [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md)
-
-1.iv. [Request Router](./requirements/Request-Router.md)
-
-1.v. [Request Router](./requirements/Request-Router.md), [API Handler](./requirements/API-Handler.md)
-
-1.vi. [Marketplace](./requirements/Marketplace.md)
-
-1.vii. [Marketplace](./requirements/Marketplace.md), [Billing Module](./requirements/Billing-Module.md)
-
-2.i. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager)
-
-2.ii. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager)
-
-2.iii. [Billing Module](./requirements/Billing-Module.md)
-
-2.iv. Not us.
-
-3.i. Not us.
-
-3.ii. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager)
-
-3.iii. [Endpoint Manager](https://github.com/LDEngine/endpoint-manager), [Dynamic Passport Plugins](./requirements/Dynamic-Passport-Plugins.md)
-
-3.iv. Not us.
-
-3.v. [Request Router](./requirements/Request-Router.md)
-
-3.vi. [Request Router](./requirements/Request-Router.md), [Billing Module](./requirements/Billing-Module.md)
-
-3.vii. [Billing Module](./requirements/Billing-Module.md)
